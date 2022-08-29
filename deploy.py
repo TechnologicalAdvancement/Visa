@@ -5,3 +5,4 @@
 #= python script
 print('Hello World')
 deploy in the dev environment
+deploy to staging
